@@ -1,0 +1,12 @@
+C:\Users\Samia M\source\repos\exercise02_user_input\exercise02_user_input\bin\Debug\netcoreapp3.1\exercise02_user_input.exe
+C:\Users\Samia M\source\repos\exercise02_user_input\exercise02_user_input\bin\Debug\netcoreapp3.1\exercise02_user_input.deps.json
+C:\Users\Samia M\source\repos\exercise02_user_input\exercise02_user_input\bin\Debug\netcoreapp3.1\exercise02_user_input.runtimeconfig.json
+C:\Users\Samia M\source\repos\exercise02_user_input\exercise02_user_input\bin\Debug\netcoreapp3.1\exercise02_user_input.runtimeconfig.dev.json
+C:\Users\Samia M\source\repos\exercise02_user_input\exercise02_user_input\bin\Debug\netcoreapp3.1\exercise02_user_input.dll
+C:\Users\Samia M\source\repos\exercise02_user_input\exercise02_user_input\bin\Debug\netcoreapp3.1\exercise02_user_input.pdb
+C:\Users\Samia M\source\repos\exercise02_user_input\exercise02_user_input\obj\Debug\netcoreapp3.1\exercise02_user_input.AssemblyInfoInputs.cache
+C:\Users\Samia M\source\repos\exercise02_user_input\exercise02_user_input\obj\Debug\netcoreapp3.1\exercise02_user_input.AssemblyInfo.cs
+C:\Users\Samia M\source\repos\exercise02_user_input\exercise02_user_input\obj\Debug\netcoreapp3.1\exercise02_user_input.csproj.CoreCompileInputs.cache
+C:\Users\Samia M\source\repos\exercise02_user_input\exercise02_user_input\obj\Debug\netcoreapp3.1\exercise02_user_input.dll
+C:\Users\Samia M\source\repos\exercise02_user_input\exercise02_user_input\obj\Debug\netcoreapp3.1\exercise02_user_input.pdb
+C:\Users\Samia M\source\repos\exercise02_user_input\exercise02_user_input\obj\Debug\netcoreapp3.1\exercise02_user_input.genruntimeconfig.cache
